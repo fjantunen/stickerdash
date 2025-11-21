@@ -1,0 +1,5 @@
+{
+  "name": "Sticker Dash Studio",
+  "description": "A creative drawing game where you design stickers based on prompts. If the AI judge approves your drawing, it gets added to your permanent sticker book collection!",
+  "requestFramePermissions": []
+}
